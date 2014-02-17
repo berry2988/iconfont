@@ -1,0 +1,35 @@
+{
+  "fonts": [
+    "iconvault_8c5b6b5fa100d5fa341acb5a66b512bb.ttf",
+    "iconvault_8c5b6b5fa100d5fa341acb5a66b512bb.woff",
+    "iconvault_8c5b6b5fa100d5fa341acb5a66b512bb.eot",
+    "iconvault_8c5b6b5fa100d5fa341acb5a66b512bb.svg"
+  ],
+  "templates": [
+    "iconvault-preview.html",
+    "iconvault-preview.css"
+  ],
+  "file_name": "iconvault_8c5b6b5fa100d5fa341acb5a66b512bb",
+  "glyphs": [
+    "ubicacion1",
+    "fb",
+    "elearning",
+    "cinco",
+    "contacto",
+    "team",
+    "historia",
+    "uno",
+    "alcance",
+    "canales",
+    "yt",
+    "tw",
+    "software",
+    "mvv",
+    "ubicacion2",
+    "encuestas",
+    "seis",
+    "cuatro",
+    "dos",
+    "tres"
+  ]
+}

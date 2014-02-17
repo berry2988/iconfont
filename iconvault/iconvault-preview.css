@@ -1,0 +1,66 @@
+/*
+ * Created with iconvau.lt
+ */
+
+@font-face {
+  font-family: "iconvault";
+  src: url("iconvault_8c5b6b5fa100d5fa341acb5a66b512bb.eot");
+  src: url("iconvault_8c5b6b5fa100d5fa341acb5a66b512bb.eot?#iefix") format("embedded-opentype"),
+       url("iconvault_8c5b6b5fa100d5fa341acb5a66b512bb.woff") format("woff"),
+       url("iconvault_8c5b6b5fa100d5fa341acb5a66b512bb.ttf") format("truetype"),
+       url("iconvault_8c5b6b5fa100d5fa341acb5a66b512bb.svg#iconvault") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon-ubicacion1:before,
+.icon-fb:before,
+.icon-elearning:before,
+.icon-cinco:before,
+.icon-contacto:before,
+.icon-team:before,
+.icon-historia:before,
+.icon-uno:before,
+.icon-alcance:before,
+.icon-canales:before,
+.icon-yt:before,
+.icon-tw:before,
+.icon-software:before,
+.icon-mvv:before,
+.icon-ubicacion2:before,
+.icon-encuestas:before,
+.icon-seis:before,
+.icon-cuatro:before,
+.icon-dos:before,
+.icon-tres:before {
+  font-family: "iconvault";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  text-decoration: inherit;
+}
+
+.icon-ubicacion1:before { content: "\f100"; }
+.icon-fb:before { content: "\f101"; }
+.icon-elearning:before { content: "\f102"; }
+.icon-cinco:before { content: "\f103"; }
+.icon-contacto:before { content: "\f104"; }
+.icon-team:before { content: "\f105"; }
+.icon-historia:before { content: "\f106"; }
+.icon-uno:before { content: "\f107"; }
+.icon-alcance:before { content: "\f108"; }
+.icon-canales:before { content: "\f109"; }
+.icon-yt:before { content: "\f10a"; }
+.icon-tw:before { content: "\f10b"; }
+.icon-software:before { content: "\f10c"; }
+.icon-mvv:before { content: "\f10d"; }
+.icon-ubicacion2:before { content: "\f10e"; }
+.icon-encuestas:before { content: "\f10f"; }
+.icon-seis:before { content: "\f110"; }
+.icon-cuatro:before { content: "\f111"; }
+.icon-dos:before { content: "\f112"; }
+.icon-tres:before { content: "\f113"; }
